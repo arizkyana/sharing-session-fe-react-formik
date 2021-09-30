@@ -1,6 +1,7 @@
 
 import {
   LoginPage,
+  MultipleInputPage,
 } from './pages';
 
 import './styles/app.css';
@@ -8,7 +9,7 @@ import './styles/app.css';
 export default function App() {
   return (
     <>
-      <LoginPage />
+      <MultipleInputPage />
     </>
   )
 }
