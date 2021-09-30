@@ -1,0 +1,9 @@
+/* layout */
+.app__layout {
+  width: 450px;
+  @apply pt-16 mx-auto border-r border-l h-full overflow-y-auto overflow-x-hidden;
+}
+
+.app__layout nav {
+  @apply border h-11;
+}
